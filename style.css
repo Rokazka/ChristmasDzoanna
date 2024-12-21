@@ -153,7 +153,6 @@ body {
 .text {
     width: 80%;
     margin: 0 auto;
-    font-size: 1rem;
     border-radius: 25px;
     animation: textCome 10s ease-in infinite;
 }
@@ -173,7 +172,7 @@ p {
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
 }
 
 h4 {
@@ -181,7 +180,7 @@ h4 {
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     margin: 0 auto;
     color: rgb(255, 255, 255);
     text-shadow: 2px 1px 2px rgb(255, 0, 0);
